@@ -1,0 +1,9 @@
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch4Ex8b-RockPaperScissors\Ch4Ex8b-RockPaperScissors\bin\Debug\Ch4Ex8b-RockPaperScissors.exe.config
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch4Ex8b-RockPaperScissors\Ch4Ex8b-RockPaperScissors\bin\Debug\Ch4Ex8b-RockPaperScissors.exe
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch4Ex8b-RockPaperScissors\Ch4Ex8b-RockPaperScissors\bin\Debug\Ch4Ex8b-RockPaperScissors.pdb
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch4Ex8b-RockPaperScissors\Ch4Ex8b-RockPaperScissors\obj\Debug\Ch4Ex8b-RockPaperScissors.csprojResolveAssemblyReference.cache
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch4Ex8b-RockPaperScissors\Ch4Ex8b-RockPaperScissors\obj\Debug\Ch4Ex8b_RockPaperScissors.Form1.resources
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch4Ex8b-RockPaperScissors\Ch4Ex8b-RockPaperScissors\obj\Debug\Ch4Ex8b_RockPaperScissors.Properties.Resources.resources
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch4Ex8b-RockPaperScissors\Ch4Ex8b-RockPaperScissors\obj\Debug\Ch4Ex8b-RockPaperScissors.csproj.GenerateResource.Cache
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch4Ex8b-RockPaperScissors\Ch4Ex8b-RockPaperScissors\obj\Debug\Ch4Ex8b-RockPaperScissors.exe
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch4Ex8b-RockPaperScissors\Ch4Ex8b-RockPaperScissors\obj\Debug\Ch4Ex8b-RockPaperScissors.pdb
