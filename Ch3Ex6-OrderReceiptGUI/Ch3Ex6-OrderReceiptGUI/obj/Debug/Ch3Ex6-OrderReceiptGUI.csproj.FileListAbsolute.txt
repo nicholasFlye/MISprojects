@@ -1,0 +1,9 @@
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch3Ex6-OrderReceiptGUI\Ch3Ex6-OrderReceiptGUI\bin\Debug\Ch3Ex6-OrderReceiptGUI.exe.config
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch3Ex6-OrderReceiptGUI\Ch3Ex6-OrderReceiptGUI\bin\Debug\Ch3Ex6-OrderReceiptGUI.exe
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch3Ex6-OrderReceiptGUI\Ch3Ex6-OrderReceiptGUI\bin\Debug\Ch3Ex6-OrderReceiptGUI.pdb
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch3Ex6-OrderReceiptGUI\Ch3Ex6-OrderReceiptGUI\obj\Debug\Ch3Ex6-OrderReceiptGUI.csprojResolveAssemblyReference.cache
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch3Ex6-OrderReceiptGUI\Ch3Ex6-OrderReceiptGUI\obj\Debug\Ch3Ex6_OrderReceiptGUI.Form1.resources
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch3Ex6-OrderReceiptGUI\Ch3Ex6-OrderReceiptGUI\obj\Debug\Ch3Ex6_OrderReceiptGUI.Properties.Resources.resources
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch3Ex6-OrderReceiptGUI\Ch3Ex6-OrderReceiptGUI\obj\Debug\Ch3Ex6-OrderReceiptGUI.csproj.GenerateResource.Cache
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch3Ex6-OrderReceiptGUI\Ch3Ex6-OrderReceiptGUI\obj\Debug\Ch3Ex6-OrderReceiptGUI.exe
+c:\users\xxfly\onedrive\documents\visual studio 2015\Projects\Ch3Ex6-OrderReceiptGUI\Ch3Ex6-OrderReceiptGUI\obj\Debug\Ch3Ex6-OrderReceiptGUI.pdb
